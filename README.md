@@ -1,2 +1,2 @@
-# clever-voicebot
-A recreation of cleverbot, but with a voice.
+# cleversiri
+Siri, but clever & funny (powered by A.L.I.C.E)
